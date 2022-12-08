@@ -3,12 +3,12 @@
 /**
  * main - Entry point
  *description:
- *printf prints the whole statement
+ *printf - prints the whole statement
  * Return: Always 0 (Success)
  */
 int main(void)
 {
-	printf("with proper grammar, but the outcome is a piece of art,"\n");
-			return(0);
+	printf("with proper grammar, but the outcome is a piece of art,\n");
+	return (0);
 }
 
